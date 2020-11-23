@@ -1,7 +1,4 @@
-```diff
-
-## :link: - [My Portfolio](https://deepakr-28.github.io/deepakr28/)
-```
+## :link: [My Portfolio](https://deepakr-28.github.io/deepakr28/)
 #### :smile: I am Deepak Rawat :india:
 #### :pencil2: Currently working on ___
 #### :large_blue_circle: Spend my days on VS code
@@ -13,3 +10,6 @@
 ![counter](https://en9lrojkkr646rc.m.pipedream.net)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=DeepakR-28)
+
+a {
+  color: #4183C4; }
