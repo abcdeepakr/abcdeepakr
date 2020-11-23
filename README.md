@@ -1,4 +1,3 @@
-# README.md
 ## :link: [Portfolio](https://deepakr-28.github.io/deepakr28/)
 #### :smile: I am Deepak Rawat :india:
 #### :pencil2: Currently working on ___
