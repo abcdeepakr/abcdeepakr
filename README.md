@@ -2,6 +2,6 @@
 #### :newspaper: Currently working on encoded chat app 
 #### :large_blue_circle: Spend my days on VS code
 #### :computer: Spend my nights on leetcode :sleeping:
-#### :necktie: Unemployment motivates me to code
+#### :necktie: Unemployment motivates me
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=DeepakR-28)
