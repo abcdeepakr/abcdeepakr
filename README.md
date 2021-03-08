@@ -7,4 +7,4 @@
 #### :computer: Spend my nights on leetcode :sleeping:
 #### :necktie: Unemployment motivates me
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepakR-28)](https://github.com/DeepakR-28/github-readme-stats)
+![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepakR-28&show_icons=true&theme=radical)
