@@ -3,5 +3,5 @@
 #### :large_blue_circle: Spend my days on VS code
 #### :computer: Spend my nights on leetcode :sleeping:
 #### :necktie: Unemployment motivates me
-![alt text](https://i.imgur.com/iVegJ35.png = 250x250)
+<img src="https://i.imgur.com/iVegJ35.png" width="200" height="250">
 ![Github stats](https://github-readme-stats.vercel.app/api?username=DeepakR-28)
