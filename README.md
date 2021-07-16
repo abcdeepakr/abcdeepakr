@@ -1,4 +1,4 @@
-## :link: [Deepak Rawat :smile: ](https://deepakr-28.github.io/deepakr28/)
+## :link: [Deepak Rawat :smile: ](https://deepakr-28.github.io/)
 
 <img src="https://i.imgur.com/iVegJ35.png" width="200" height="250">
 
