@@ -1,7 +1,7 @@
 ## :link: [Deepak Rawat :smile: ](https://deepakr28.com/)
 
 
-  * API's
+  * REST/SOAP API's
   * React
   * Golang
   * Nodejs
