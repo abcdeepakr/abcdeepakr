@@ -1,18 +1,12 @@
 ## :link: [Deepak Rawat :smile: ](https://deepakr28.com/)
 
-Frontend Developer [@TPS Technologies](https://tpstech.in)
+#### About Me
+💼 Building e-commerce solutions for [The Peripheral Store](https://tpstech.in)
 
-Photography Enthusiast [@Pexels](https://pexels.com/@deepakrawat)
+🛠️ Working on a simple [component library](https://github.com/deepakr-28/boring-component-library) in my free time
 
-Vlogs(_Beta_) [@Youtube](https://youtube.com/@deepakr28)
+📃 Writing stuff at [Hashnode](https://deepakr28.hashnode.dev/)
 
+🧑‍💻 Checkout my small [playground](https://deepakr28.com/resume)
 
-  * REST/SOAP API's
-  * React
-  * Golang
-  * Nodejs
-  * Python
-  * rajma chawal
-  * Shopify Liquid
-  
-  
+📸 I also like to take [photos](https://www.pexels.com/@deepakrawat)
