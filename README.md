@@ -1,7 +1,7 @@
 ## :link: [Deepak Rawat :smile: ](https://deepakr28.com/)
 
 #### About Me
-💼 Building e-commerce solutions for [The Peripheral Store](https://tpstech.in)
+💼 Building solutions for [Crs24](https://cars24.com)
 
 🛠️ Working on a simple [component library](https://github.com/deepakr-28/boring-component-library) in my free time
 
