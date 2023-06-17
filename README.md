@@ -1,7 +1,7 @@
 ## :link: [Deepak Rawat :smile: ](https://deepakr28.com/)
 
 #### About Me
-💼 Building solutions for [Crs24](https://cars24.com)
+💼 Building solutions for [Cars24](https://cars24.com)
 
 🛠️ Working on a simple [component library](https://github.com/deepakr-28/boring-component-library) in my free time
 
