@@ -9,4 +9,4 @@
 
 🧑‍💻 Checkout my small [playground](https://deepakr28.com/resume)
 
-📸 I also like to take [photos](https://www.pexels.com/@deepakrawat)
+📸 I also like to take [photos](https://www.pexels.com/@eggroll)
