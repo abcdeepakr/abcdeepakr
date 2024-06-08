@@ -1,12 +1,5 @@
 ## :link: [Deepak Rawat :smile: ](https://deepakr28.com/)
 
-#### About Me
-💼 Building solutions for [Cars24](https://cars24.com)
 
-🛠️ Working on a simple [component library](https://github.com/deepakr-28/boring-component-library) in my free time
-
-📃 Writing stuff at [Hashnode](https://deepakr28.hashnode.dev/)
-
-🧑‍💻 Checkout my small [playground](https://deepakr28.com/resume)
-
-📸 I also like to take [photos](https://www.pexels.com/@eggroll)
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/yacineMTB/yacineMTB/blob/master/luffy1.gif?raw=true');]{x0000}$}
